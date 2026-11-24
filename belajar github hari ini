@@ -1,0 +1,10 @@
+REPO:folder projeckkita
+COMMIT:rekaman/snapshot dari repo kita
+HASH:penanda unik pada sebuah commit
+CHECKOUT:berpindah kesebuah commit
+BRANCH:cabang bebas dari sebuah commit
+MERGE:menggabungka branch
+REMMOTE:sumber yang memiliki repo
+CLONE:mengambil repo dari remote
+PUSH:mengirimkan commit ke repo
+PULL:mengambil coomit dari repo
